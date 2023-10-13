@@ -8,7 +8,7 @@ CSV Splitter 是一个简易但功能强大的 Python 工具，专为那些需�
 安装
 克隆此存储库到本地，或直接下载 ZIP 文件并解压。
 ```
-git clone https://github.com/your-username/csv-splitter.git
+git clone https://github.com/jellzone/csv-splitter.git
 ```
 进入 csv-splitter 目录。
 
